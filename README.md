@@ -1,7 +1,14 @@
-# Starter Web Repo
+# Starter Web-Project
 
-This repository is for showing how Git and GitHub work
+This is Git Project, which we are using as Sample Project
 
-## Purpose
+## Introduction
+A lot of Lectures are already submited 
 
-Sample website with plenty of files for demos
+## GIT & GITHUb Training
+This is the famous and one of the Best Training Course of Devops.
+
+### Jenkins
+Is a tool for a continuous integration 
+
+
