@@ -4,7 +4,7 @@
 # TEAM
 
     Saidani ouali 
-    oualisaidani1993@gmail.com
+    oualisaidani@gmail.com
 
 # THANKS
 
@@ -13,5 +13,10 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
+
     jQuery, Modernizr
     Machine Learning, Aws, Google Cloud
+
+    jQuery, Modernizr, AJAX
+    Docker, Java Programming
+
