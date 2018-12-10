@@ -22,6 +22,8 @@ Doing some changes in local
 
     jQuery, Modernizr, AJAX
     Docker, Java Programming
+	
+    Aws solution
 
  hello world ok
 
