@@ -2,6 +2,8 @@
 # The humans responsible & technology colophon
 
 Hi, I am modifing the file before rebase
+
+Doing some changes in local
 # TEAM
 
     Saidani ouali 
