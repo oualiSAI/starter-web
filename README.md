@@ -7,7 +7,7 @@ A lot of Lectures are already submited
 
 ## GIT & GITHUb Training
 This is the famous and one of the Best Training Course of Devops.
-
+Adding Git Rebase lectures
 ### Jenkins
 Is a tool for a continuous integration 
 
